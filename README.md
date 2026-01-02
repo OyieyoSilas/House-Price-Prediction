@@ -1,8 +1,3 @@
-Below is a **precise, professional, Kaggle-ready `README.md`** for your **Zillow Prize (Zestimate) Competition** project. It is written for a **data science / ML portfolio**, concise but technically credible.
-
-You can paste this directly into your GitHub repository.
-
----
 
 # Zillow Prize – Home Value Prediction
 
